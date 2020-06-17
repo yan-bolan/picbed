@@ -3,10 +3,12 @@ layout: article
 title: 你好啊，世界
 mathjax: true
 article_header:
-  cover_size: sm
   type: cover
   image:
     src: https://imgchr.com/i/NZmOi9
+articles：
+  type: normal
+  cover_size: sm
 sidebar:
   nav: docs-en
 ---
