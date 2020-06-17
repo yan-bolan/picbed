@@ -5,7 +5,7 @@ mathjax: true
 article_header:
   type: cover
   image:
-    src: /img/post-2020-05-16.jpg
+    src: https://imgkr.cn-bj.ufileos.com/21c8136a-d6ef-47e8-961f-d5a0cb01aa91.jpg
 sidebar:
   nav: docs-en
 ---
