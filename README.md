@@ -5,3 +5,4 @@
 gh-pages是一个github.io jekll博客
 
 停止维护主题了
+gh-pages分支已删除，可在Release 中1.0找回
